@@ -312,3 +312,33 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywoodSTIRR.us" tvg-name="Made In Hollywood (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/30a2f367-97f1-49e2-b9a7-0ae1a859e917-small3x1_STIRR_Logo_0320_MadeInHollywood_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Movies",Made In Hollywood (STIRR) (720p)
+
+#EXTINF:-1 tvg-id="AnimaxIndonesianSub.kr" tvg-name="Animax [Indonesian Sub]" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",Animax [Indonesian Sub]
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="" group-title="",Animax Japan (Indonesian Subs)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="AXNIndonesia.us" tvg-name="AXN [Indonesia]" tvg-country="US" tvg-language="" tvg-logo="" group-title="",AXN [Indonesia]
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.us" tvg-name="CNBC Indonesia" tvg-country="US" tvg-language="" tvg-logo="" group-title="",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="IndonesiaChannel.id" tvg-name="Indonesia Channel" tvg-country="ID" tvg-language="" tvg-logo="" group-title="",Indonesia Channel (720p)
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One.kr" tvg-name="One" tvg-country="KR" tvg-language="" tvg-logo="" group-title="",One (Indonesian Sub)
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="",TVRI Nasional
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="General",GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="General",Indosiar
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
